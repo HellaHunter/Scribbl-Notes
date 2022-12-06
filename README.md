@@ -31,8 +31,14 @@ No installation needed. Just open the link of the deployed application and start
 
 How to use:
 1] Go to site and click "Get Started"
+
+![App Homepage](Scribbl-Home.JPG)
+
+
 2] Add notes in or view existing notes
 3] Delete existing notes with the trash icon
+
+![App in Use](Sribbl-Using.JPG)
 
 Below are screenshots of the deployed application:
 
