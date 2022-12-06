@@ -39,7 +39,7 @@ How to use:
 2] Add notes in or view existing notes
 3] Delete existing notes with the trash icon
 
-![App in Use]Scribbl-Using.JPG)
+![App in Use](Scribbl-Using.JPG)
 
 Below are screenshots of the deployed application:
 
